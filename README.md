@@ -1,2 +1,3 @@
-# Sopanat Sirisubbowon
- Computer Programming of Sopanat Sirisubbowon
+# Sopanat Sirisubbowon  | Developer
+Hi, my name is Sopanat Sirisubbowon
+I'm the Java Developer.
